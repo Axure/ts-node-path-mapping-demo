@@ -1,0 +1,29 @@
+{
+  "name": "ts-node-path-mapping-demo",
+  "version": "1.0.0",
+  "description": "A demo for the path mapping feature in TypeScript.",
+  "main": "main.ts",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "start": "ts-node main.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Axure/ts-node-path-mapping-demo.git"
+  },
+  "keywords": [
+    "TypeScript"
+  ],
+  "author": "freetiger18@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Axure/ts-node-path-mapping-demo/issues"
+  },
+  "homepage": "https://github.com/Axure/ts-node-path-mapping-demo#readme",
+  "dependencies": {
+    "ts-node": "^3.0.2",
+    "typescript": "^2.2.1"
+  }
+}
